@@ -8,6 +8,7 @@ namespace Ejercicios.Clase_2
 {
     internal class Ejercicio5
     {
+        /*
         static void Main()
         {
             string USER = "admin";
@@ -40,6 +41,7 @@ namespace Ejercicios.Clase_2
             }
             while (counter <= 3);
         }
+        */
 
     }
 }
