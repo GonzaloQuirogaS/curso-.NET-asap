@@ -8,6 +8,7 @@ namespace Ejercicios.Clase_2
 {
     internal class Ejercicio4
     {
+        /*
         static void Main()
         {
             Console.Write("Ingrese una palabra: ");
@@ -33,5 +34,6 @@ namespace Ejercicios.Clase_2
                 Console.WriteLine("No es un palíndromo.");
             }
         }
+        */
     }
 }
