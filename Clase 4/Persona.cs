@@ -22,8 +22,7 @@ namespace Ejercicios.Clase_4
 
         public void verPersona()
         {
-            Console.WriteLine(nombre);
-            Console.WriteLine(edad);
+            Console.WriteLine($"- {nombre} - {edad} años");
         }
 
         public void Saludar()

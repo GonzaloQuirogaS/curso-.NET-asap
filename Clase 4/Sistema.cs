@@ -10,7 +10,7 @@ namespace Ejercicios.Clase_4
     {
         public void MostrarInfo(Persona p)
         {
-            Console.WriteLine($"Nombre: {p.nombre}\nEdad: {p.edad}");
+            p.verPersona();
         }
     }
 }
